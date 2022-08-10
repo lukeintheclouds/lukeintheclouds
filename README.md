@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+My latest blog posts:
+- [Make Azure DevOps look pretty](https://lukeintheclouds.com/posts/make-azure-devops-look-pretty/)
+- [Business continuity and disaster recovery workshop](https://lukeintheclouds.com/posts/business-continuity-and-disaster-recovery-workshop/)
+- [Azure Activity Log â€ Change History](https://lukeintheclouds.com/posts/azure-activity-log-change-history/)
+- [Diagram Driven Cloud Infrastructure with Cloud Maker](https://lukeintheclouds.com/posts/diagram-driven-cloud-infrastructure-with-cloud-maker/)
+- [Azure ARM template, but it is not JSON!](https://lukeintheclouds.com/posts/azure-arm-template-but-it-is-not-json/)
+
 <!--
 **lukeintheclouds/lukeintheclouds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
